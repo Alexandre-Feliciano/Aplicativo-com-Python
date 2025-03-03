@@ -11,9 +11,9 @@
 
 ## Tecnologias utilizadas
 
-- ([Python](https://www.python.org))
-- ([Framework Kivy](https://kivy.org/doc/stable/)
-- ([API de cotação](https://docs.awesomeapi.com.br/api-de-moedas)
+- [Python](https://www.python.org)
+- [Framework Kivy](https://kivy.org/doc/stable/)
+- [API de cotação](https://docs.awesomeapi.com.br/api-de-moedas)
 
 ## Imagem
 
